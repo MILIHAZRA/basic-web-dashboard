@@ -9,6 +9,8 @@
   <li><a href="personal.html">Personal</a></li>
   <li><a href="resume.html">Resume</li>
 </ul>
+<p> For more clarity of this project you can follow:</p>
+<a href="basic_web app.gif" alt="Description of the video content">base_web app</a>
 <h2>Home:</h2>
 <p>Here I have explained about self introduction.</p>
 <h2>Academics:</h2>
